@@ -5,5 +5,6 @@ public class GItTest {
         System.out.println("hot-fix commit");
         System.out.println("push test");
         System.out.println("ssh push");
+         System.out.println("pull commit");
     }
 }
