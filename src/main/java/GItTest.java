@@ -6,5 +6,6 @@ public class GItTest {
         System.out.println("push test");
         System.out.println("ssh push");
          System.out.println("pull commit");
+         System.out.println("github 项目更新");
     }
 }
