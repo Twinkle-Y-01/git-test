@@ -4,5 +4,6 @@ public class GItTest {
         System.out.println("master commit");
         System.out.println("hot-fix commit");
         System.out.println("push test");
+        System.out.println("ssh push");
     }
 }
